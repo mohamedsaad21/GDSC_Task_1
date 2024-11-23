@@ -7,7 +7,7 @@
     border-radius: 8px;
     height:400px;
 
-    background-image: url("img/image-omelette.jpeg");
+    background-image: url("/img/image-omelette.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
